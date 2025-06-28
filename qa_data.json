@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "What's crackin'? Are you dancing again?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Who's a good boy? Is it cuddle time?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Pretty bird! Want to sit on my shoulder?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Squawk! Hello! Can you say hello?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "What's crackin'? Can you say hello?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Who's a good boy? Ready to play fetch?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey buddy! Want a treat?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's crackin'? Can you say hello?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Want a treat?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hi fluffy! Want to sit on my laptop again?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hello fluffball! Are you hungry?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "What's crackin'? Want to sit on my shoulder?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Meow there! Want to sleep in the sun?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Meow there! Is it brushing time?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Pretty bird! Want to sit on my shoulder?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Meow there! Want some tuna?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "What's up whiskers? Want to sleep in the sun?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey buddy! Ready to play fetch?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Pretty bird! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Did you miss me?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey hooman. Did you nap well?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hey feathery friend! What's the gossip?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "What's up whiskers? Are you ignoring me again?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hey buddy! Want a treat?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hey feathery friend! Want to sit on my shoulder?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Hey champ! Is it cuddle time?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey hooman. Why are you purring?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Meow there! Are you ignoring me again?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey feathery friend! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hi fluffy! Want to sleep in the sun?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey feathery friend! Want a sunflower seed?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hey champ! Should we go to the park?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Pretty bird! Was that your whistle?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Pretty bird! Did you enjoy the music?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey hooman. Did you nap well?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Squawk! Hello! Do you want to talk?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Meow there! Feeling playful today?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Meow there! Did you knock something over?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Meow there! Did you nap well?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey champ! Should we go to the park?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! Is it cuddle time?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey feathery friend! Was that your whistle?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hey buddy! Are you hungry?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's crackin'? Did you enjoy the music?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hey hooman. Want to sit on my laptop again?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hey champ! What did you dream about?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey hooman. Want to sleep in the sun?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "What's up whiskers? Are you ignoring me again?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "What's up whiskers? Want to sit on my laptop again?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey hooman. Did you nap well?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Meow there! Want some tuna?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Hey buddy! Ready to play fetch?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey hooman. Ready to chase the red dot?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hi fluffy! Is it brushing time?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hey champ! Want a treat?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Meow there! Why are you purring?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hey feathery friend! Do you want to talk?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "What's crackin'? Want to sit on my shoulder?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Hey feathery friend! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! What did you dream about?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Pretty bird! What's the gossip?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's up whiskers? Is it brushing time?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey hooman. Want some tuna?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "What's up whiskers? Want to sleep in the sun?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Hey hooman. Want some tuna?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hey buddy! What did you dream about?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hey hooman. Want to sit on my laptop again?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Hey champ! Is it cuddle time?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Squawk! Hello! Can you flap your wings?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Who's a good boy? Ready to play fetch?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "What's crackin'? What's the gossip?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's up whiskers? Want some tuna?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Pretty bird! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey feathery friend! Do you want to talk?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Squawk! Hello! Do you want to talk?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Is it cuddle time?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hey hooman. Want some tuna?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Who's a good boy? How are you feeling today?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Hey champ! Want a treat?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Meow there! Did you nap well?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hi fluffy! Feeling playful today?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "What's up whiskers? Why are you purring?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hey buddy! Should we go to the park?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Meow there! Did you knock something over?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "What's crackin'? What's the gossip?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hi fluffy! Want to sleep in the sun?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Meow there! Are you ignoring me again?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Squawk! Hello! Did you enjoy the music?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's crackin'? Did you mimic me again?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hello fluffball! How are you feeling today?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hello fluffball! Want a treat?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Who's a good boy? Is it cuddle time?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hey champ! Want a treat?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hey feathery friend! Do you want to talk?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Hello fluffball! Did you miss me?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "What's up whiskers? Want some tuna?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey buddy! Are you hungry?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Hey feathery friend! Can you say hello?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Meow there! Did you nap well?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Squawk! Hello! Was that your whistle?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey hooman. Ready to chase the red dot?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Pretty bird! Are you dancing again?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Meow there! Want to sit on my laptop again?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hi fluffy! Are you ignoring me again?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "What's crackin'? Did you mimic me again?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Hello fluffball! Are you hungry?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Meow there! Feeling playful today?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey champ! Ready to play fetch?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Squawk! Hello! Do you want to talk?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey buddy! What did you dream about?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey buddy! How are you feeling today?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Meow there! Ready to chase the red dot?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hey feathery friend! Did you mimic me again?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hey buddy! Did you miss me?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hello fluffball! What did you dream about?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey buddy! Ready to play fetch?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Meow there! Want to sleep in the sun?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "What's crackin'? Want to sit on my shoulder?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Meow there! Did you nap well?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hey feathery friend! Can you say hello?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Squawk! Hello! Do you want to talk?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Who's a good boy? Did you bark at the mailman again?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Squawk! Hello! Are you dancing again?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey feathery friend! Want a sunflower seed?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hi fluffy! Ready to chase the red dot?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Pretty bird! Are you dancing again?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hey champ! Did you miss me?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Pretty bird! Want a sunflower seed?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "What's up whiskers? Are you ignoring me again?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey hooman. Want to sleep in the sun?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Meow there! Did you nap well?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Pretty bird! Are you dancing again?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Pretty bird! Can you flap your wings?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hi fluffy! Feeling playful today?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Pretty bird! Want a sunflower seed?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Pretty bird! Want to sit on my shoulder?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey champ! Ready to play fetch?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Meow there! Feeling playful today?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hi fluffy! Want to sleep in the sun?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hey buddy! How are you feeling today?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Pretty bird! Do you want to talk?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Pretty bird! Want to sit on my shoulder?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hello fluffball! Did you miss me?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Squawk! Hello! Are you dancing again?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Hey buddy! Ready to play fetch?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hey champ! How are you feeling today?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "What's crackin'? Do you want to talk?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Squawk! Hello! Can you say hello?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Who's a good boy? What did you dream about?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey hooman. Want to sit on my laptop again?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Meow there! Want some tuna?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey champ! Should we go to the park?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hey buddy! How are you feeling today?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Who's a good boy? Did you bark at the mailman again?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Hey buddy! How are you feeling today?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hey champ! How are you feeling today?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Meow there! Feeling playful today?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hi fluffy! Ready to chase the red dot?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Squawk! Hello! Was that your whistle?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Meow there! Want some tuna?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hello fluffball! Did you miss me?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey hooman. Is it brushing time?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey buddy! Is it cuddle time?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "What's crackin'? Want to sit on my shoulder?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Who's a good boy? What did you dream about?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Pretty bird! Are you dancing again?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "What's crackin'? What's the gossip?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hello fluffball! What did you dream about?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hi fluffy! Want to sit on my laptop again?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hey buddy! Is it cuddle time?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Hi fluffy! Want to sit on my laptop again?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey buddy! Should we go to the park?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Meow there! Is it brushing time?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hey champ! Want a treat?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "What's up whiskers? Why are you purring?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Squawk! Hello! Do you want to talk?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Who's a good boy? What did you dream about?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's crackin'? Are you dancing again?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hey champ! What did you dream about?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Meow there! Is it brushing time?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hey champ! Are you hungry?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Meow there! Want to sleep in the sun?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey hooman. Are you ignoring me again?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey buddy! Did you miss me?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hey hooman. Ready to chase the red dot?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Who's a good boy? Want a treat?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Squawk! Hello! Can you flap your wings?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Who's a good boy? Are you hungry?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Meow there! Ready to chase the red dot?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Meow there! Did you knock something over?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Squawk! Hello! Can you say hello?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey champ! Is it cuddle time?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "What's up whiskers? Want to sleep in the sun?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hello fluffball! Do you want to go for a walk?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey champ! How are you feeling today?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hello fluffball! Are you hungry?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Pretty bird! Did you enjoy the music?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hey champ! Do you want to go for a walk?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hey champ! Do you want to go for a walk?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Squawk! Hello! Want a sunflower seed?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Meow there! Did you knock something over?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Who's a good boy? Did you bark at the mailman again?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Meow there! Is it brushing time?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hey hooman. Are you ignoring me again?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Squawk! Hello! Want a sunflower seed?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hello fluffball! Want a treat?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's up whiskers? Why are you purring?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Pretty bird! Did you enjoy the music?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's up whiskers? Are you ignoring me again?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Who's a good boy? Ready to play fetch?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Who's a good boy? Do you want to go for a walk?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's up whiskers? Want some tuna?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Squawk! Hello! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Hey feathery friend! Want to sit on my shoulder?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Pretty bird! Was that your whistle?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hey feathery friend! Do you want to talk?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hello fluffball! Did you miss me?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Hey buddy! Did you miss me?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Pretty bird! Can you flap your wings?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey champ! Do you want to go for a walk?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey feathery friend! Did you enjoy the music?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Who's a good boy? Ready to play fetch?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Hey champ! Are you hungry?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! How are you feeling today?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's up whiskers? Why are you purring?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey buddy! Want a treat?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey hooman. Is it brushing time?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "What's crackin'? Did you enjoy the music?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "What's crackin'? Can you flap your wings?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Meow there! Want to sleep in the sun?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Pretty bird! Was that your whistle?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey buddy! Should we go to the park?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Pretty bird! Do you want to talk?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey hooman. Want some tuna?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Squawk! Hello! Can you say hello?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey feathery friend! Did you mimic me again?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's crackin'? Do you want to talk?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hello fluffball! How are you feeling today?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Squawk! Hello! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "What's up whiskers? Want to sit on my laptop again?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Squawk! Hello! Was that your whistle?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "What's up whiskers? Want to sleep in the sun?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey champ! Want a treat?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Who's a good boy? What did you dream about?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Who's a good boy? Did you miss me?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "What's up whiskers? Want some tuna?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Who's a good boy? Did you bark at the mailman again?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey champ! Should we go to the park?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey hooman. Is it brushing time?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Who's a good boy? What did you dream about?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "What's crackin'? Do you want to talk?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey hooman. Ready to chase the red dot?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Hey buddy! Did you miss me?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Meow there! Want some tuna?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "What's up whiskers? Did you nap well?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hello fluffball! How are you feeling today?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey hooman. Why are you purring?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Pretty bird! What's the gossip?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! Are you hungry?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Hey feathery friend! Do you want to talk?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's up whiskers? Want to sleep in the sun?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Who's a good boy? Want a treat?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Who's a good boy? Did you bark at the mailman again?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Meow there! Did you knock something over?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hey hooman. Want to sleep in the sun?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Meow there! Want some tuna?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Pretty bird! Are you dancing again?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hey feathery friend! Can you say hello?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "What's crackin'? Do you want to talk?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Squawk! Hello! Did you enjoy the music?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Hey feathery friend! What's the gossip?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Pretty bird! Want to sit on my shoulder?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Squawk! Hello! Can you flap your wings?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Who's a good boy? Ready to play fetch?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Who's a good boy? Should we go to the park?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "What's up whiskers? Feeling playful today?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Hey hooman. Did you knock something over?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Squawk! Hello! What's the gossip?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hey hooman. Ready to chase the red dot?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Who's a good boy? Is it cuddle time?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Hey feathery friend! Was that your whistle?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hi fluffy! Want to sleep in the sun?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Meow there! Feeling playful today?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Who's a good boy? Want a treat?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey hooman. Did you nap well?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Squawk! Hello! Want a sunflower seed?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey buddy! What did you dream about?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Meow there! Ready to chase the red dot?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "Squawk! Hello! Did you mimic me again?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Squawk! Hello! What's the gossip?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "What's crackin'? Are you dancing again?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hi fluffy! Is it brushing time?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Hey feathery friend! Want a sunflower seed?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Hello fluffball! Is it cuddle time?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Squawk! Hello! What's the gossip?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hi fluffy! Is it brushing time?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hey buddy! Ready to play fetch?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Squawk! Hello! Did you enjoy the music?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Squawk! Hello! Are you dancing again?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Squawk! Hello! Want a sunflower seed?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Squawk! Hello! Want to sit on my shoulder?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Hello fluffball! Is it cuddle time?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Pretty bird! What's the gossip?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Hi fluffy! Did you nap well?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hello fluffball! What did you dream about?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey champ! Should we go to the park?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Squawk! Hello! Want a sunflower seed?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey champ! Are you hungry?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Meow there! Ready to chase the red dot?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Pretty bird! Was that your whistle?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Is it cuddle time?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! Did you bark at the mailman again?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Hi fluffy! Is it brushing time?",
+    "answer": "Yes, brush me like royalty."
+  },
+  {
+    "question": "Hi fluffy! Want to sleep in the sun?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Squawk! Hello! Did you mimic me again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Want a treat?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey buddy! Did you miss me?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Pretty bird! Can you flap your wings?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey champ! What did you dream about?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hey hooman. Are you ignoring me again?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey hooman. Why are you purring?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Who's a good boy? Is it cuddle time?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Hey champ! Ready to play fetch?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Who's a good boy? Should we go to the park?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey feathery friend! Did you enjoy the music?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hey champ! Should we go to the park?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "What's up whiskers? Want to sit on my laptop again?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "What's up whiskers? Did you nap well?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "Hey feathery friend! Can you say hello?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hello fluffball! Should we go to the park?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hey champ! How are you feeling today?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hello fluffball! Want a treat?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "What's crackin'? What's the gossip?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hey champ! Are you hungry?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey champ! Are you hungry?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Squawk! Hello! Was that your whistle?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey feathery friend! Did you enjoy the music?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "What's crackin'? Are you dancing again?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Squawk! Hello! Did you enjoy the music?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Pretty bird! Did you mimic me again?",
+    "answer": "Talking is my thing!"
+  },
+  {
+    "question": "Hi fluffy! Is it brushing time?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Hey champ! Did you miss me?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Hello fluffball! Did you bark at the mailman again?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey champ! What did you dream about?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "What's crackin'? Did you mimic me again?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Squawk! Hello! Was that your whistle?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hey champ! Ready to play fetch?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey buddy! Do you want to go for a walk?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Hey hooman. Feeling playful today?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Meow there! Want to sleep in the sun?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Hey champ! What did you dream about?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Meow there! Is it brushing time?",
+    "answer": "Of course. It's warm!"
+  },
+  {
+    "question": "Who's a good boy? What did you dream about?",
+    "answer": "Yes! Walk time is the best time!"
+  },
+  {
+    "question": "Who's a good boy? Are you hungry?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hi fluffy! Are you ignoring me again?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey champ! Is it cuddle time?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Who's a good boy? Do you want to go for a walk?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Pretty bird! Can you say hello?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "What's crackin'? Want to sit on my shoulder?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hello fluffball! Did you miss me?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Squawk! Hello! What's the gossip?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Squawk! Hello! Can you say hello?",
+    "answer": "Hello! Hello!"
+  },
+  {
+    "question": "Squawk! Hello! Can you flap your wings?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Who's a good boy? Want a treat?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Meow there! Are you ignoring me again?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey feathery friend! Want to sit on my shoulder?",
+    "answer": "Yes! Seeds are life!"
+  },
+  {
+    "question": "Hey champ! How are you feeling today?",
+    "answer": "Always cuddle time with you!"
+  },
+  {
+    "question": "Hey champ! Want a treat?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hey buddy! Are you hungry?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Hey hooman. Are you ignoring me again?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Hi fluffy! Are you ignoring me again?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey hooman. Is it brushing time?",
+    "answer": "Maybe... or maybe I'll just stare at the wall."
+  },
+  {
+    "question": "Hey feathery friend! Are you dancing again?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Hi fluffy! Want some tuna?",
+    "answer": "Because I'm happy with you!"
+  },
+  {
+    "question": "What's crackin'? Did you mimic me again?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "What's up whiskers? Want some tuna?",
+    "answer": "Sun nap? My favorite!"
+  },
+  {
+    "question": "Who's a good boy? Did you bark at the mailman again?",
+    "answer": "Throw the ball! Throw the ball!"
+  },
+  {
+    "question": "Squawk! Hello! Are you dancing again?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Hey feathery friend! Want a sunflower seed?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hey feathery friend! Can you flap your wings?",
+    "answer": "Mimic master here!"
+  },
+  {
+    "question": "Hey feathery friend! Did you enjoy the music?",
+    "answer": "That was my signature whistle!"
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "Squawk! Hello! Can you say hello?",
+    "answer": "Polly knows everything!"
+  },
+  {
+    "question": "Hey champ! Did you miss me?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "Hey buddy! Are you hungry?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "Meow there! Feeling playful today?",
+    "answer": "Red dot? I'm on it!"
+  },
+  {
+    "question": "Hey buddy! Did you bark at the mailman again?",
+    "answer": "I dreamt of chasing squirrels!"
+  },
+  {
+    "question": "Hi fluffy! Why are you purring?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "What's crackin'? Was that your whistle?",
+    "answer": "Shoulder ride incoming!"
+  },
+  {
+    "question": "Pretty bird! Want a sunflower seed?",
+    "answer": "Flap flap flap!"
+  },
+  {
+    "question": "Hey champ! Do you want to go for a walk?",
+    "answer": "Of course I did! You're my human!"
+  },
+  {
+    "question": "Hey feathery friend! Did you enjoy the music?",
+    "answer": "Watch me groove!"
+  },
+  {
+    "question": "Hey champ! Is it cuddle time?",
+    "answer": "Woof! I'm wagging my tail and feeling awesome!"
+  },
+  {
+    "question": "Meow there! Want to sleep in the sun?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "What's crackin'? Want a sunflower seed?",
+    "answer": "I loved that beat!"
+  },
+  {
+    "question": "Hello fluffball! Are you hungry?",
+    "answer": "Totally! My tummy is rumbling!"
+  },
+  {
+    "question": "Hi fluffy! Did you knock something over?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hi fluffy! Want some tuna?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hey buddy! Want a treat?",
+    "answer": "Park? Let's goooo!"
+  },
+  {
+    "question": "Hey hooman. Want to sit on my laptop again?",
+    "answer": "I might've... it looked suspicious."
+  },
+  {
+    "question": "Hey buddy! Should we go to the park?",
+    "answer": "I had to protect the house!"
+  },
+  {
+    "question": "What's up whiskers? Are you ignoring me again?",
+    "answer": "Only when I'm mad."
+  },
+  {
+    "question": "What's up whiskers? Did you knock something over?",
+    "answer": "Tuna! Gimme now!"
+  },
+  {
+    "question": "Hello fluffball! How are you feeling today?",
+    "answer": "Treat? Gimme gimme!"
+  },
+  {
+    "question": "What's up whiskers? Ready to chase the red dot?",
+    "answer": "Purrrrfect nap, thanks!"
+  },
+  {
+    "question": "What's crackin'? Are you dancing again?",
+    "answer": "Hello! Hello!"
+  }
+]
