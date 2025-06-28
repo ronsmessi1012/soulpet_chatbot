@@ -2,7 +2,5 @@ faiss-cpu
 numpy
 fastapi
 google-generativeai
-logging
-random
 dotenv
 uvicorn
