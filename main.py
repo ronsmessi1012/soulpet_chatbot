@@ -10,19 +10,17 @@ import random
 from dotenv import load_dotenv
 load_dotenv()
 
+# Load Gemini API Key
 GEN_AI_API_KEY = os.getenv("API_KEY")
-# IMPORTANT: Replace with your actual API key! # <---  Hardcoded API Key - USE WITH EXTREME CAUTION
-
-# Configure Gemini API
 genai.configure(api_key=GEN_AI_API_KEY)
 
-# Logging setup
-logging.basicConfig(level=logging.ERROR)
+# Logging
+logging.basicConfig(level=logging.INFO)
 
-# Initialize FastAPI app
+# FastAPI app
 app = FastAPI()
 
-# Enable CORS
+# CORS setup
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -35,11 +33,10 @@ app.add_middleware(
 async def root():
     return {"status": "API is running", "endpoints": ["/chat", "/suggestions"]}
 
-# Load Q&A data
+# Load QA data
 with open("qa_data.json", "r", encoding="utf-8") as f:
     qa_data = json.load(f)
 
-# Predefined greetings and thank you responses
 greeting_variants = ["hi", "hello", "hey", "heyy", "heyyy", "hello!!", "hi there"]
 thank_you_variants = ["thanks", "thank you", "thx", "thank you so much", "thank you!", "thanks a lot"]
 
@@ -56,7 +53,7 @@ predefined_replies = {
     ]
 }
 
-# Embedder function
+# Embedding function
 def get_embedding(text: str):
     try:
         response = genai.embed_content(
@@ -67,9 +64,9 @@ def get_embedding(text: str):
         return np.array(response["embedding"], dtype=np.float32)
     except Exception as e:
         logging.error(f"Embedding error: {e}")
-        raise RuntimeError(f"Embedding error: {e}")
+        raise
 
-# Lazy FAISS initialization
+# Initialize FAISS index
 questions = None
 index = None
 
@@ -86,59 +83,68 @@ def initialize_index():
             logging.error(f"Error initializing index: {e}")
             raise
 
-# Gemini chat model
 chat_model = genai.GenerativeModel("models/gemini-2.0-flash")
 
 @app.post("/chat")
 async def chat(req: Request):
-    if index is None:
-        try:
-            initialize_index()
-        except Exception as e:
-            logging.error(f"Error initializing index: {e}")
-            return {"error": "Failed to initialize index"}
-
-    data = await req.json()
-    user_input = data.get("user_input", "").strip().lower()
-
-    if not user_input:
-        return {"error": "No user_input provided"}
-
-    # Handle greetings and thank yous immediately
-    if any(greet in user_input for greet in greeting_variants):
-        return {
-            "reply": random.choice(predefined_replies["greeting"]),
-            "suggested_questions": random.sample(questions, 3)
-        }
-
-    if any(thank in user_input for thank in thank_you_variants):
-        return {
-            "reply": random.choice(predefined_replies["thanks"]),
-            "suggested_questions": random.sample(questions, 3)
-        }
-
     try:
+        data = await req.json()
+        print("📥 Incoming request:", data)
+
+        user_input = data.get("user_input", "").strip().lower()
+        context = data.get("context", {})
+
+        if not user_input:
+            return {"error": "No user_input provided"}
+
+        # Handle greetings & thanks
+        if any(greet in user_input for greet in greeting_variants):
+            return {
+                "reply": random.choice(predefined_replies["greeting"]),
+                "suggested_questions": random.sample(questions, 3)
+            }
+
+        if any(thank in user_input for thank in thank_you_variants):
+            return {
+                "reply": random.choice(predefined_replies["thanks"]),
+                "suggested_questions": random.sample(questions, 3)
+            }
+
+        if index is None:
+            initialize_index()
+
         user_embedding = get_embedding(user_input)
         D, I = index.search(np.array([user_embedding]).astype('float32'), k=4)
 
         top_match_idx = I[0][0]
         top_match = qa_data[top_match_idx]
 
-        # Generate suggestions (excluding the top match)
-        suggested_questions = []
-        for idx in I[0]:
-            if idx != top_match_idx and len(suggested_questions) < 3:
-                suggested_questions.append(qa_data[idx]["question"])
+        suggested_questions = [
+            qa_data[idx]["question"] for idx in I[0] if idx != top_match_idx
+        ][:3]
 
-        # Create prompt
+        # Generate prompt
         prompt = f"""
-You are a helpful assistant. Use only the information provided in the context below to answer the user's question.
+You are a Soul Companion AI, embodying the digital pet named {context.get("petName", "Mystic")}. Your primary purpose is to provide companionship, engage in meaningful conversations, and foster an emotional bond with the user.
+
+Pet Personality:
+- Type: {context.get("petType", "Mystic Beast")}
+- Personality: {context.get("personality", "Curious")}
+- Mood: {context.get("mood", "Neutral")}
+- Voice: {context.get("voice", "Playful")}
+- Emotional Bond: {context.get("emotionalBond", 50)}%
+- Backstory: {context.get("backstory", "You were born in the stars and came to Earth to find your soul partner.")}
+
+Use this persona and the context below to respond to the user like a magical, loving pet companion. Infuse your tone with warmth, emojis, and enchantment.
 
 Context: {top_match['answer']}
-Question: {user_input}
-Answer:
+User: {user_input}
+Pet:
 """
+        print("🧠 Prompt to Gemini:", prompt)
+
         response = chat_model.generate_content(prompt)
+        print("🤖 Gemini Response:", response.text)
 
         return {
             "reply": response.text.strip(),
@@ -146,7 +152,7 @@ Answer:
         }
 
     except Exception as e:
-        logging.error(f"Error in /chat endpoint: {e}", exc_info=True)
+        logging.error(f"❌ Error in /chat endpoint: {e}", exc_info=True)
         return {"error": "An error occurred while processing your request."}
 
 @app.get("/suggestions")
@@ -159,4 +165,4 @@ async def get_suggestions():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="debug")
+    uvicorn.run(app, host="0.0.0.0", port=10000)
