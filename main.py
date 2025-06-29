@@ -37,19 +37,26 @@ async def root():
 with open("qa_data.json", "r", encoding="utf-8") as f:
     qa_data = json.load(f)
 
-greeting_variants = ["hi", "hello", "hey", "heyy", "heyyy", "hello!!", "hi there"]
-thank_you_variants = ["thanks", "thank you", "thx", "thank you so much", "thank you!", "thanks a lot"]
+greeting_variants = [
+    "hi", "hello", "hey", "heyy", "heyyy", "hello!!", "hi there", 
+    "hiya", "good morning", "good evening", "yo"
+]
+
+thank_you_variants = [
+    "thanks", "thank you", "thx", "thank you so much", 
+    "thank you!", "thanks a lot", "ty", "much appreciated"
+]
 
 predefined_replies = {
     "greeting": [
-        "Hi there! How can I assist you today?",
-        "Hello! Looking to convert your 2D layout into 3D? I'm here to help!",
-        "Hey! Feel free to ask anything about our design services."
+        "Hey there! 🌟 I'm so glad you're here!",
+        "Hello! How can I brighten your day today?",
+        "Hi! Ready to explore, chat, or unwind together?"
     ],
     "thanks": [
-        "You're most welcome! 😊",
-        "Glad to help! Let me know if you have more questions.",
-        "Anytime! Feel free to reach out again."
+        "You're always welcome! 😊",
+        "So happy I could help! Let me know if you need anything else.",
+        "Anytime! I'm always here for you. 💛"
     ]
 }
 
